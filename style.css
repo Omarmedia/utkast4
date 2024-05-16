@@ -647,7 +647,7 @@ img {
     }
 
     .hero .container {
-        background: url('./img/løsdet-mobil.png') no-repeat;
+        background: url('img/løsdet-mobil.png') no-repeat;
         background-size: 530px 560px;
         background-position: bottom;
         height: 670px;
